@@ -1,0 +1,18 @@
+.home_container {
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 50px;
+    gap: 70px;
+    /* background-color: antiquewhite; */
+}
+
+.all_books_container {
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}

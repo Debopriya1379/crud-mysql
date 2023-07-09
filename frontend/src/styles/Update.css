@@ -1,0 +1,9 @@
+.update_container {
+    /* background-color: aqua; */
+    max-width: 600px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}

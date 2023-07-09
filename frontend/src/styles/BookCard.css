@@ -1,0 +1,35 @@
+.book_card_container {
+    /* background-color: aqua; */
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.book_card_up {
+    max-width: 100%;
+    /* height: 100%; */
+    /* background-color: aqua; */
+}
+
+.book_card_up img {
+    width: 100%;
+    height: 300px;
+}
+
+.book_card_down {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.book_card_down button {
+    width: 30%;
+    margin: 5px auto;
+}
+
+.options{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
